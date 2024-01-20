@@ -3,6 +3,7 @@ import os
 from dataclasses import asdict
 import time
 from pathlib import Path
+from loguru import logger
 import requests
 import shutil
 
@@ -105,6 +106,7 @@ def zip_folder(src_folder: Path, dest_zip: Path):
     """
     shutil.make_archive(dest_zip, 'zip', src_folder)
     print(f"Folder zipped at {dest_zip}")
+    logger.info(f"Folder zipped at {dest_zip}")
     return dest_zip.with_suffix('.zip')
 
 
@@ -124,6 +126,7 @@ def download_file_from_url(url: str, destination_path: Path):
         with destination_path.open("wb") as f:
             f.write(response.content)
     else:
+        logger.error(f"Failed to download the file. HTTP Status Code: {response.status_code}")
         print(f"Failed to download the file. HTTP Status Code: {response.status_code}")
 
 

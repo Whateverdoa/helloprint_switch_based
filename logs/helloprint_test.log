@@ -1,0 +1,173 @@
+2024-01-20T09:14:40.110392+0100 INFO Found JSON files: []
+2024-01-20T09:14:40.110392+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:17:20.430327+0100 INFO Found JSON files: []
+2024-01-20T09:17:20.430327+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:17:30.434614+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:17:30.435127+0100 INFO Found JSON files: []
+2024-01-20T09:17:30.435127+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:17:40.447713+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:17:40.448509+0100 INFO Found JSON files: []
+2024-01-20T09:17:40.448509+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:17:50.448750+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:17:50.448750+0100 INFO Found JSON files: []
+2024-01-20T09:17:50.448750+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:18:00.453640+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:18:00.453640+0100 INFO Found JSON files: []
+2024-01-20T09:18:00.453640+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:18:10.458496+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:18:10.458496+0100 INFO Found JSON files: []
+2024-01-20T09:18:10.458496+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:18:20.460485+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:18:20.460485+0100 INFO Found JSON files: []
+2024-01-20T09:18:20.461487+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:18:30.467256+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:18:30.467256+0100 INFO Found JSON files: []
+2024-01-20T09:18:30.467256+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:19:29.492251+0100 INFO Found JSON files: [WindowsPath('D:/programs/VS_CODE/hp/HP_CERM_CONN_TEST/4203201-6243251_Helloprint_JSON_2023-11-15.json')]
+2024-01-20T09:19:29.492251+0100 INFO Starting processing file: 4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:19:29.504254+0100 ERROR Exception occurred while processing file D:\programs\VS_CODE\hp\HP_CERM_CONN_TEST\4203201-6243251_Helloprint_JSON_2023-11-15.json: [WinError 5] Toegang geweigerd: 'C:\\Users\\Bgsystem'
+2024-01-20T09:19:29.504254+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:19:39.512589+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:19:39.512589+0100 INFO Found JSON files: [WindowsPath('D:/programs/VS_CODE/hp/HP_CERM_CONN_TEST/4203201-6243251_Helloprint_JSON_2023-11-15.json')]
+2024-01-20T09:19:39.513588+0100 INFO Starting processing file: 4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:19:39.515588+0100 ERROR Exception occurred while processing file D:\programs\VS_CODE\hp\HP_CERM_CONN_TEST\4203201-6243251_Helloprint_JSON_2023-11-15.json: [WinError 5] Toegang geweigerd: 'C:\\Users\\Bgsystem'
+2024-01-20T09:19:39.515588+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:19:49.527916+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:19:49.528725+0100 INFO Found JSON files: [WindowsPath('D:/programs/VS_CODE/hp/HP_CERM_CONN_TEST/4203201-6243251_Helloprint_JSON_2023-11-15.json')]
+2024-01-20T09:19:49.528725+0100 INFO Starting processing file: 4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:19:49.530719+0100 ERROR Exception occurred while processing file D:\programs\VS_CODE\hp\HP_CERM_CONN_TEST\4203201-6243251_Helloprint_JSON_2023-11-15.json: [WinError 5] Toegang geweigerd: 'C:\\Users\\Bgsystem'
+2024-01-20T09:19:49.530719+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:19:59.534797+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:19:59.535589+0100 INFO Found JSON files: [WindowsPath('D:/programs/VS_CODE/hp/HP_CERM_CONN_TEST/4203201-6243251_Helloprint_JSON_2023-11-15.json')]
+2024-01-20T09:19:59.535589+0100 INFO Starting processing file: 4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:19:59.537582+0100 ERROR Exception occurred while processing file D:\programs\VS_CODE\hp\HP_CERM_CONN_TEST\4203201-6243251_Helloprint_JSON_2023-11-15.json: [WinError 5] Toegang geweigerd: 'C:\\Users\\Bgsystem'
+2024-01-20T09:19:59.537582+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:31:26.128275+0100 INFO Found JSON files: [WindowsPath('D:/programs/VS_CODE/hp/HP_CERM_CONN_TEST/4203201-6243251_Helloprint_JSON_2023-11-15.json')]
+2024-01-20T09:31:48.563324+0100 INFO Starting processing file: 4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:33:27.553668+0100 ERROR Exception occurred while processing file D:\programs\VS_CODE\hp\HP_CERM_CONN_TEST\4203201-6243251_Helloprint_JSON_2023-11-15.json: [WinError 5] Toegang geweigerd: 'C:\\Users\\Bgsystem'
+2024-01-20T09:33:45.857720+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:37:14.867273+0100 INFO Found JSON files: [WindowsPath('D:/programs/VS_CODE/hp/HP_CERM_CONN_TEST/4203201-6243251_Helloprint_JSON_2023-11-15.json')]
+2024-01-20T09:37:20.181040+0100 INFO Starting processing file: 4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:37:49.555803+0100 INFO Finished processing file: 4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:37:50.907246+0100 INFO Successfully deleted file: D:\programs\VS_CODE\hp\HP_CERM_CONN_TEST\4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:39:02.014255+0100 INFO Found JSON files: []
+2024-01-20T09:39:02.014255+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:39:32.022667+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:39:32.022667+0100 INFO Found JSON files: []
+2024-01-20T09:39:32.023501+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:40:02.031389+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:40:02.032383+0100 INFO Found JSON files: []
+2024-01-20T09:40:02.032383+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:40:32.043538+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:40:32.043538+0100 INFO Found JSON files: [WindowsPath('D:/programs/VS_CODE/hp/HP_CERM_CONN_TEST/4203201-6243251_Helloprint_JSON_2023-11-15.json')]
+2024-01-20T09:40:32.043538+0100 INFO Starting processing file: 4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:40:32.053530+0100 INFO Finished processing file: 4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:40:32.053530+0100 INFO Successfully deleted file: D:\programs\VS_CODE\hp\HP_CERM_CONN_TEST\4203201-6243251_Helloprint_JSON_2023-11-15.json
+2024-01-20T09:40:32.053530+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:41:02.061566+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:41:02.062358+0100 INFO Found JSON files: []
+2024-01-20T09:41:02.062358+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:41:32.063780+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:41:32.064774+0100 INFO Found JSON files: []
+2024-01-20T09:41:32.064774+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:45:44.637075+0100 INFO Found JSON files: [WindowsPath('D:/programs/VS_CODE/hp/HP_CERM_CONN_TEST/4300815-6410272_Helloprint_JSON_2024-01-23.json')]
+2024-01-20T09:45:44.637075+0100 INFO Starting processing file: 4300815-6410272_Helloprint_JSON_2024-01-23.json
+2024-01-20T09:45:44.646051+0100 INFO Finished processing file: 4300815-6410272_Helloprint_JSON_2024-01-23.json
+2024-01-20T09:45:44.646051+0100 INFO Successfully deleted file: D:\programs\VS_CODE\hp\HP_CERM_CONN_TEST\4300815-6410272_Helloprint_JSON_2024-01-23.json
+2024-01-20T09:45:44.646051+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:46:14.650847+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:46:14.651749+0100 INFO Found JSON files: []
+2024-01-20T09:46:14.651749+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:46:44.657969+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:46:44.657969+0100 INFO Found JSON files: []
+2024-01-20T09:46:44.657969+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:47:14.661001+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:47:14.661805+0100 INFO Found JSON files: []
+2024-01-20T09:47:14.661805+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:47:44.667248+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:47:44.668043+0100 INFO Found JSON files: []
+2024-01-20T09:47:44.668043+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:48:14.674300+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:48:14.675095+0100 INFO Found JSON files: []
+2024-01-20T09:48:14.675095+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:48:44.682740+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:48:44.683540+0100 INFO Found JSON files: []
+2024-01-20T09:48:44.683540+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:49:14.697878+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:49:14.697878+0100 INFO Found JSON files: []
+2024-01-20T09:49:14.697878+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:49:44.709844+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:49:44.709844+0100 INFO Found JSON files: []
+2024-01-20T09:49:44.709844+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:50:14.722241+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:50:14.722241+0100 INFO Found JSON files: []
+2024-01-20T09:50:14.722241+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:50:44.732401+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:50:44.732401+0100 INFO Found JSON files: []
+2024-01-20T09:50:44.733227+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:51:14.741925+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:51:14.741925+0100 INFO Found JSON files: []
+2024-01-20T09:51:14.742846+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:51:44.744557+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:51:44.744557+0100 INFO Found JSON files: []
+2024-01-20T09:51:44.744557+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:52:14.759216+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:52:14.759216+0100 INFO Found JSON files: []
+2024-01-20T09:52:14.759216+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:52:44.765066+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:52:44.765066+0100 INFO Found JSON files: []
+2024-01-20T09:52:44.765066+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:53:14.772782+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:53:14.772782+0100 INFO Found JSON files: []
+2024-01-20T09:53:14.772782+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:53:44.773583+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:53:44.773583+0100 INFO Found JSON files: []
+2024-01-20T09:53:44.774552+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:54:14.781996+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:54:14.782546+0100 INFO Found JSON files: []
+2024-01-20T09:54:14.782546+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:54:44.787981+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:54:44.788488+0100 INFO Found JSON files: []
+2024-01-20T09:54:44.788563+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:55:14.797310+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:55:14.798311+0100 INFO Found JSON files: []
+2024-01-20T09:55:14.798311+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:55:44.810639+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:55:44.810639+0100 INFO Found JSON files: []
+2024-01-20T09:55:44.810639+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:56:14.819145+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:56:14.819145+0100 INFO Found JSON files: []
+2024-01-20T09:56:14.819145+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:56:44.831932+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:56:44.831932+0100 INFO Found JSON files: []
+2024-01-20T09:56:44.832468+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:57:14.841386+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:57:14.842017+0100 INFO Found JSON files: []
+2024-01-20T09:57:14.842524+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:57:44.847179+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:57:44.847543+0100 INFO Found JSON files: []
+2024-01-20T09:57:44.847543+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:58:14.862448+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:58:14.862828+0100 INFO Found JSON files: []
+2024-01-20T09:58:14.862828+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:58:44.878935+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:58:44.879463+0100 INFO Found JSON files: []
+2024-01-20T09:58:44.879972+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:59:14.890489+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T09:59:14.890994+0100 INFO Found JSON files: []
+2024-01-20T09:59:14.891114+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T09:59:44.213724+0100 INFO Found JSON files: []
+2024-01-20T09:59:44.213724+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T10:00:14.229253+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T10:00:14.229253+0100 INFO Found JSON files: [WindowsPath('D:/programs/VS_CODE/hp/HP_CERM_CONN_TEST/4300815-6410272_Helloprint_JSON_2024-01-23.json')]
+2024-01-20T10:00:14.229253+0100 INFO Starting processing file: 4300815-6410272_Helloprint_JSON_2024-01-23.json
+2024-01-20T10:00:14.233186+0100 INFO Helloprint Artwork PDF: Artwork_4300815_6410272.pdf
+2024-01-20T10:00:14.233186+0100 INFO Helloprint Artwork PDF destination: D:\programs\VS_CODE\hp\testfile\cerm_helloprint_conversions/4300815_6410272/Artwork_4300815_6410272.pdf
+2024-01-20T10:00:14.233186+0100 INFO Helloprint Jobsheet PDF: Jobsheet_4300815_6410272.pdf
+2024-01-20T10:00:14.233186+0100 INFO Helloprint Jobsheet PDF destination: D:\programs\VS_CODE\hp\testfile\cerm_helloprint_conversions/4300815_6410272/Jobsheet_4300815_6410272.pdf
+2024-01-20T10:00:14.879917+0100 INFO Finished processing file: 4300815-6410272_Helloprint_JSON_2024-01-23.json
+2024-01-20T10:00:14.879917+0100 INFO Successfully deleted file: D:\programs\VS_CODE\hp\HP_CERM_CONN_TEST\4300815-6410272_Helloprint_JSON_2024-01-23.json
+2024-01-20T10:00:14.880446+0100 INFO Completed processing all files. Waiting for next check.
+2024-01-20T10:00:44.887424+0100 INFO Wait for 5 minutes before next iteration
+2024-01-20T10:00:44.887985+0100 INFO Found JSON files: []
+2024-01-20T10:00:44.888053+0100 INFO Completed processing all files. Waiting for next check.
