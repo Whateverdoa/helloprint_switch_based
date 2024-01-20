@@ -1,0 +1,34 @@
+{
+    "Description": "ET-90PVC-RE5025-2000-40-1",
+    "ReferenceAtCustomer": "4203201-6243251",
+    "Delivery": "UPS-UPS_SAVER",
+    "OrderQuantity": 2000,
+    "UnitPrice": 39.27,
+    "SupplierId": "Helloprint",
+    "Name": "Caps Me Orlando Fiorentino",
+    "Street": "70-72 Rue Gutenberg None",
+    "Country": "FR",
+    "PostalCode": "91120",
+    "City": "PALAISEAU",
+    "Contacts": [
+        {
+            "LastName": "Orlando Fiorentino",
+            "FirstName": "Caps Me",
+            "Initials": "",
+            "Title": "Mr./Mevr.",
+            "PhoneNumber": "0782773164",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "thibaut@capsme.fr",
+            "Function": ""
+        }
+    ],
+    "Width": "50",
+    "Height": "25",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2.0,
+    "Premium_White": "N",
+    "Substrate": "90PVC",
+    "LineComment1": "2023-11-15 11:00:00"
+}

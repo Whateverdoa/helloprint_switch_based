@@ -1,0 +1,227 @@
+{
+    "created": "2023-10-20T14:23:00.000Z",
+    "deliveryPromise": 0,
+    "deliveryPromiseCost": 0,
+    "descriptions": {
+        "full": "1000 Stickers op rol 45x81mm 55 g/m\u00b2 PP wit glans, 4/0 Full colour digital, Rolafwikkeling 2, Kerndiameter rol 40 mm, Enkelzijdig glansvernis, 13695, 2, 6848, Rechthoekig (2 mm afgeronde hoeken), 500, Handeling, Permanent",
+        "size": "custom",
+        "printing": "digital 40",
+        "material": "55gr_pp_white_gloss",
+        "designs": 2,
+        "finishing": "1000, 303, 3645, outer_0, 40_mm, single_sided_vernis_gloss, 13695, 2, 6848, rectangle_sticker__2mm_rounded_corners, 500, 3645000, handling_roll_labels, permanent, 13695, 1.5",
+        "shipping": "Verzenden met DHG EUROPLUS naar 1 adres"
+    },
+    "designs": [
+        {
+            "id": "acf0bbbf-f5a5-40dc-aafa-9c3c904038f8",
+            "copies": 500,
+            "href": "https://eagerapi.print.com/order-items/6001120212-1/production-file?designId=acf0bbbf-f5a5-40dc-aafa-9c3c904038f8",
+            "shipments": [
+                {
+                    "shipmentId": 1468594,
+                    "addressId": 1667887,
+                    "copies": 1000,
+                    "deliveryDate": "2023-10-27 17:00:00",
+                    "latestDeliveryDate": "2023-10-30 17:00:00",
+                    "method": "DHG_EUROPLUS",
+                    "productDiscount": 0,
+                    "shippingDiscount": 0,
+                    "normalPrice": 6.25,
+                    "address": {
+                        "firstName": "WILLY",
+                        "lastName": "DE PRAETER",
+                        "companyName": "GRAFOMAN",
+                        "email": "willy@grafoman.be",
+                        "telephone": "003255600630",
+                        "id": 1667887,
+                        "fullstreet": "VIERMAARTLAAN",
+                        "houseNumber": "6",
+                        "city": "RONSE",
+                        "country": "BE",
+                        "postcode": "9600",
+                        "street": "VIERMAARTLAAN"
+                    },
+                    "tax": 0.44,
+                    "combinedShipmentDiscount": 4.17,
+                    "combinedShipmentId": 38074,
+                    "storageLocation": null,
+                    "pickedUpBy": null,
+                    "printCustomLabel": true,
+                    "shippingLabelUrl": "",
+                    "orderItemsWithSameShippingAddress": [
+                        {
+                            "orderItemNumber": "6001120212-2",
+                            "s": "22e03517-17c7-49fa-a96d-d57f597ad6a9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "424ef76f-e100-4283-be94-b2f420979375",
+            "copies": 500,
+            "href": "https://eagerapi.print.com/order-items/6001120212-1/production-file?designId=424ef76f-e100-4283-be94-b2f420979375",
+            "shipments": [
+                {
+                    "shipmentId": 1468594,
+                    "addressId": 1667887,
+                    "copies": 1000,
+                    "deliveryDate": "2023-10-27 17:00:00",
+                    "latestDeliveryDate": "2023-10-30 17:00:00",
+                    "method": "DHG_EUROPLUS",
+                    "productDiscount": 0,
+                    "shippingDiscount": 0,
+                    "normalPrice": 6.25,
+                    "address": {
+                        "firstName": "WILLY",
+                        "lastName": "DE PRAETER",
+                        "companyName": "GRAFOMAN",
+                        "email": "willy@grafoman.be",
+                        "telephone": "003255600630",
+                        "id": 1667887,
+                        "fullstreet": "VIERMAARTLAAN",
+                        "houseNumber": "6",
+                        "city": "RONSE",
+                        "country": "BE",
+                        "postcode": "9600",
+                        "street": "VIERMAARTLAAN"
+                    },
+                    "tax": 0.44,
+                    "combinedShipmentDiscount": 4.17,
+                    "combinedShipmentId": 38074,
+                    "storageLocation": null,
+                    "pickedUpBy": null,
+                    "printCustomLabel": true,
+                    "shippingLabelUrl": "",
+                    "orderItemsWithSameShippingAddress": [
+                        {
+                            "orderItemNumber": "6001120212-2",
+                            "s": "22e03517-17c7-49fa-a96d-d57f597ad6a9"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "designsHasSameAmount": true,
+    "layouts": [],
+    "name": "labels-on-roll",
+    "options": {
+        "copies": "1000",
+        "urgency": "standard",
+        "numberOfSheets": "1000",
+        "sheetWidth": "303",
+        "planoHeight": "81",
+        "squareMM": "3645",
+        "output_direction": "outer_0",
+        "printtype": "40",
+        "roll_diameter": "40_mm",
+        "finish": "single_sided_vernis_gloss",
+        "total_length": "13695",
+        "number_of_rolls": "2",
+        "height": "81",
+        "roll_length": "6848",
+        "shape": "rectangle_sticker__2mm_rounded_corners",
+        "planoWidth": "45",
+        "copies_per_roll": "500",
+        "numberOfDesigns": "2",
+        "squareMMTotal": "3645000",
+        "printingmethod": "digital",
+        "handling_costs": "handling_roll_labels",
+        "size": "custom",
+        "material": "55gr_pp_white_gloss",
+        "type_glue": "permanent",
+        "width": "45",
+        "sheetHeight": "13695",
+        "bleed": "1.5"
+    },
+    "orderId": 1122575,
+    "orderItemId": 1437555,
+    "orderItemNumber": "6001120212-1",
+    "orderNumber": 6001120212,
+    "pantoneColors": [],
+    "pickupDate": "2023-10-26T15:00:00.000Z",
+    "printjobId": "7b9d1334-ea21-4762-9eac-c9d9bc7329fd",
+    "purchasePrice": 42.43,
+    "quantity": 1,
+    "reprintCreditDeliveryPromise": 0,
+    "reprintCreditUrgency": 0,
+    "reprintOrderItemNumber": "",
+    "shipments": [
+        {
+            "shipmentId": 1468594,
+            "addressId": 1667887,
+            "copies": 1000,
+            "deliveryDate": "2023-10-27 17:00:00",
+            "latestDeliveryDate": "2023-10-30 17:00:00",
+            "method": "DHG_EUROPLUS",
+            "productDiscount": 0,
+            "shippingDiscount": 0,
+            "normalPrice": 6.25,
+            "address": {
+                "firstName": "WILLY",
+                "lastName": "DE PRAETER",
+                "companyName": "GRAFOMAN",
+                "email": "willy@grafoman.be",
+                "telephone": "003255600630",
+                "id": 1667887,
+                "fullstreet": "VIERMAARTLAAN",
+                "houseNumber": "6",
+                "city": "RONSE",
+                "country": "BE",
+                "postcode": "9600",
+                "street": "VIERMAARTLAAN"
+            },
+            "tax": 0.44,
+            "combinedShipmentDiscount": 4.17,
+            "combinedShipmentId": 38074,
+            "storageLocation": null,
+            "pickedUpBy": null,
+            "printCustomLabel": true,
+            "shippingLabelUrl": "",
+            "orderItemsWithSameShippingAddress": [
+                {
+                    "orderItemNumber": "6001120212-2",
+                    "s": "22e03517-17c7-49fa-a96d-d57f597ad6a9"
+                }
+            ],
+            "designs": [
+                {
+                    "id": "acf0bbbf-f5a5-40dc-aafa-9c3c904038f8",
+                    "copies": 500,
+                    "href": "https://eagerapi.print.com/order-items/6001120212-1/production-file?designId=acf0bbbf-f5a5-40dc-aafa-9c3c904038f8"
+                },
+                {
+                    "id": "424ef76f-e100-4283-be94-b2f420979375",
+                    "copies": 500,
+                    "href": "https://eagerapi.print.com/order-items/6001120212-1/production-file?designId=424ef76f-e100-4283-be94-b2f420979375"
+                }
+            ]
+        }
+    ],
+    "sku": "labels-on-roll",
+    "status": "SENTTOSUPPLIER",
+    "submissionDate": "2023-10-20T16:00:00.000Z",
+    "supplierChecklist": [],
+    "supplierCode": "VE",
+    "urgencyCost": 0,
+    "variants": [],
+    "childItems": [],
+    "_links": {
+        "self": {
+            "href": "https://eagerapi.print.com/order-items/6001120212-1"
+        },
+        "jobsheet": {
+            "href": "https://eagerapi.print.com/order-items/6001120212-1/jobsheet"
+        },
+        "productionFile": {
+            "href": "https://eagerapi.print.com/order-items/6001120212-1/production-file"
+        },
+        "design_1": {
+            "href": "https://eagerapi.print.com/order-items/6001120212-1/production-file?designId=acf0bbbf-f5a5-40dc-aafa-9c3c904038f8"
+        },
+        "design_2": {
+            "href": "https://eagerapi.print.com/order-items/6001120212-1/production-file?designId=424ef76f-e100-4283-be94-b2f420979375"
+        }
+    }
+}
